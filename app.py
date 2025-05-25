@@ -104,7 +104,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # Title and header
-st.title("💉 An Intelligent System for Disease Prediction and Drug Recommendation 💉")
+st.title("💉 Dr.TTMSH online System for Disease Prediction and Drug Recommendation 💉")
 st.markdown("---")
 
 # Sidebar for additional options
